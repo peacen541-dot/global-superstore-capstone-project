@@ -92,7 +92,7 @@ All visuals dynamically respond to slicer selections, enabling deeper analysis.
 * Power Query Editor
 * Power Pivot (Data Modeling & DAX)
 * Pivot Tables & Charts
-
+  
 ---
 
 ## 🔍 Key Insights
@@ -111,6 +111,11 @@ All visuals dynamically respond to slicer selections, enabling deeper analysis.
 * Optimize shipping strategies to improve cost efficiency
 * Strengthen presence in high-performing markets
 * Review underperforming categories for pricing or discount optimization
+
+---
+
+Due to GitHub file size limitations, large Excel files are hosted externally.
+Excel cleaned data download here: https://drive.google.com/drive/folders/1mSX6WlDNlUnQyFe32pk7ahc1mcqoJhLm?usp=sharing
 
 ---
 
