@@ -115,7 +115,8 @@ All visuals dynamically respond to slicer selections, enabling deeper analysis.
 ---
 
 Due to GitHub file size limitations, large Excel files are hosted externally.
-Excel cleaned data download here: https://drive.google.com/drive/folders/1mSX6WlDNlUnQyFe32pk7ahc1mcqoJhLm?usp=sharing
+
+Download here: https://drive.google.com/drive/folders/1mSX6WlDNlUnQyFe32pk7ahc1mcqoJhLm?usp=sharing
 
 ---
 
